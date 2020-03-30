@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Sinae's Blog
+tagline:          ''
+description:      ''
+url:              http://sinae-hong.github.io
+baseurl:          /
+
+author:
+  name:           'Sinae Hong'
+#  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/sinae-hong/sinae-hong.github.io
