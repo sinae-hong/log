@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -17,6 +17,9 @@ author:
   name:           'Sinae Hong'
 #  url:            https://twitter.com/mdo
 
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
 paginate:         5
 
 # Custom vars
