@@ -3,14 +3,13 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
 
 # Setup
 title:            Sinae's Blog
 tagline:          ''
 description:      ''
 url:              http://sinae-hong.github.io
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Sinae Hong'
