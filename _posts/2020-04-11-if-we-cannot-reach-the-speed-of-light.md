@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 만약 우리가 빛의 속도로 갈 수 없다면
+title: 우리가 빛의 속도로 갈 수 없다면
 categories:
   - Review
 tags: 
