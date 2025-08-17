@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[sinae.hong@kakao.com](mailto:sinae.hong@kakao.com)
+[sinaehong120@gmail.com](mailto:sinaehong120@gmail.com)
